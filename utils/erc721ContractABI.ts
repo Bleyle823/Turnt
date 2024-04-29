@@ -1,0 +1,1 @@
+export const erc721ContractABI = [] as const; 
